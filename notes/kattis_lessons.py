@@ -1,7 +1,10 @@
 '''
+https://open.kattis.com/problems/electricaloutlets
+
 example of using map()
 -map() returns an object -> needs to be 'consumed' with list()
 -use test[1:] to only get items from index 1 onwards
+
 as discussed in IT5001
 '''
 
