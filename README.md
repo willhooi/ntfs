@@ -6,3 +6,4 @@ Coding Practices >[Lessons from Kattis](notes/kattis_lessons.py)
 
 Coding Practices >[GCCF1](notes/gccf1.py)
 
+Brain Dump >[What did I learn?](notes/b_dump.md)
